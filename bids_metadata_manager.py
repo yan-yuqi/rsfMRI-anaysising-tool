@@ -458,7 +458,7 @@ class WorkflowManager(JsonManipulation, BidsMetadataModifier):
 
 
 # ---------------------------Parameters-------------------------
-source_dir = "/Users/yanyuqi/Desktop/Proj/data_Bids"
+source_dir = "/Users/Desktop/Proj/data_Bids"
 sub_prefix = 'sub-hc'
 sub_digit = 3
 sub_suffix = ''
